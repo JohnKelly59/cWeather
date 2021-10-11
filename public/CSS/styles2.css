@@ -1,0 +1,76 @@
+
+
+body {
+height: 100%;
+}
+
+body {
+
+font-family: 'Playfair Display SC', serif;
+}
+
+main {
+align-items: center;
+text-align: center;
+padding-bottom: 40px;
+}
+
+
+
+div{
+border-radius: 25px;
+border: 2px solid white;
+padding: 20px;
+width:45px;
+height: auto;
+color: white;
+}
+
+.navigation{
+padding-bottom: 20px
+}
+
+.container-fluid{
+text-align: center;
+}
+
+.form-signin {
+width: 100%;
+max-width: 330px;
+padding: 15px;
+margin: auto;
+}
+
+.form-signin .checkbox {
+font-weight: 400;
+}
+
+.form-signin .form-floating:focus-within {
+z-index: 2;
+}
+
+div [name="top"] {
+margin-bottom: -1px;
+border-bottom-right-radius: 0;
+border-bottom-left-radius: 0;
+}
+
+div [name="bottom"] {
+margin-bottom: 10px;
+border-top-left-radius: 0;
+border-top-right-radius: 0;
+button{
+width: 100px;
+}
+
+
+a{
+color: #11999E;
+text-decoration: none;
+margin: 0px;
+}
+
+.name{
+position: relative;
+padding top: 40px;
+}
