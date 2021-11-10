@@ -8,7 +8,6 @@ app.use(bodyParser.urlencoded({
   extended: true
 }));
 app.set('view engine', 'ejs');
-var config = require('./config');
 
 var wdata = [];
 
